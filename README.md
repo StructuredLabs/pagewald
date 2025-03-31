@@ -114,19 +114,14 @@ To change colors:
 3. Change the color codes
 
 
-## **🤝 Contributing**
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for development guidelines.
-
 ## **📄 License**
 
 Apache 2.0 - See [LICENSE](LICENSE) for details.
 
 ## **🎉 Join the Community**
 
-- **GitHub Issues**: Found a bug? Let us know [here](https://github.com/StructuredLabs/supawald/issues).
+- **GitHub Issues**: Found a bug? Let us know [here](https://github.com/StructuredLabs/pagewald/issues).
 - **Community Forum**: Reach out [here](https://join.slack.com/t/structuredlabs-users/shared_invite/zt-31vvfitfm-_vG1HR9hYysR_56u_PfI8Q)
-- **Discussions**: Share your ideas and ask questions in our [discussion forum](https://github.com/StructuredLabs/supawald/discussions).
 
 ## **📢 Stay Connected**
 
