@@ -42,17 +42,23 @@
    cd <your-project-name>
    ```
 
-2. **Change the content**
+2. **Run the app locally**
+   ```bash
+   python3 -m http.server 8000
+   ```
+   Then open your browser and go to `http://localhost:8000`
+
+3. **Change the content**
    - Edit text in `index.html`
    - Put your own images in the `assets` folder
    - Change colors in `styles.css`
 
-3. **Update basic info**
+4. **Update basic info**
    - Change the page title
    - Add your own description
    - Put your own favicon in `assets/favicon.ico`
 
-4. **Put it online**
+5. **Put it online**
    - Upload to your website
    - Or use GitHub Pages, Netlify, or Vercel
 
